@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-Ay, while you live, draw your neck out o' the collar1111.
-I strike quickly, being moved1111.
-=======
+Ay, while you live, draw your neck out o' the collar.
+I strike quickly, being moved.
 Ay, while you live, draw your neck out o' the collar2.
 I strike quickly, being moved3.
->>>>>>> git_1
 But thou art not quickly moved to strike.
 A dog of the house of Montague moves me.
 To move is to stir; and to be valiant is to stand:
